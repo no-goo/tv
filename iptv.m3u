@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U url-tvg="url-tvg="https://iptvx.one/EPG", https://iptvx.one/EPG_NOARCH"
+#EXTM3U url-tvg="http://epg.one/epg.xml.gz, https://iptvx.one/EPG_NOARCH"
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/pervy.png" tvg-id="pervy" group-title="Основные", Первый HD
 https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=S18LD_G9b2BgxLMuDWfQPQ&e=2072222109&scheme=https
 #EXTINF:-1 group-title="Основные" tvg-id="pervy" audio-track="rus", Первый канал 
@@ -12,7 +12,7 @@ https://live.smotrim.ru/vgtrk/0/russia1-hd/1080p.m3u8
 https://cdn.ntv.ru/ntv0/playlist.m3u8
 #EXTINF:-1 group-title="Основные" tvg-id="ntv" tvg-logo="https://iptvx.one/picons/ntv.png", НТВ HD 
 https://cdn.ntv.ru/ntv0_hd/tracks-v3a1/mono.m3u8
-#EXTINF:-1 group-title="Основные" tvg-id="ntv-mir" audio-track="rus", НТВ-Мир
+#EXTINF:-1 group-title="Основные" tvg-id="ntv-mir" audio-track="rus" tvg-logo="https://iptvx.one/picons/ntv.png", НТВ-Мир
 http://5.188.159.128:8070/ntvmir_TV/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-id="5kanal-ru" audio-track="rus", Пятый канал
 http://31.131.141.195:8000/play/1050/index.m3u8
